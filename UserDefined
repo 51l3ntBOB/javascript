@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <script>
+            function showAlert() {
+                alert ("A user defined function!!")
+                }
+        </script>
+            
+        
+    </head>
+    <body>
+        <form>
+            <INPUT type = "button" value = "Run the function" OnClick = "showAlert()">
+        </form>
+        </body>
+</html>
